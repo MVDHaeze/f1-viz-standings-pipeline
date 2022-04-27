@@ -1,0 +1,2 @@
+"# f1-viz-standings-pipeline"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:MVDHaeze/f1-viz-standings-pipeline.gitgit push -u origin main
+"# f1-viz-standings-pipeline"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:MVDHaeze/f1-viz-standings-pipeline.gitgit push -u origin main
