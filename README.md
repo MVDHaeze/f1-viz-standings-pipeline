@@ -1,1 +1,1 @@
-"# f1-viz-standings-pipeline" 
+# f1-viz-standings-pipeline
