@@ -7,7 +7,7 @@ def getSeasonResults():
     current_year = date.today().year
     for round in range(1, 25):
         try:
-            race_result = getRaceResult(current_year, round)
+            race_result = getRaceResult.getRaceResult(current_year, round)
             races_result.append(race_result)
         except IndexError:
             break
